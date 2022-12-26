@@ -24,3 +24,6 @@ Fungsi len() digunakan untuk mengidentifikasi dan mengetahui seberapa panjang ju
         data1='Hello Word'
         print (data1)
         print ("Jumlah karakter :",len(data1))
+       
+![image](https://user-images.githubusercontent.com/115794875/209493365-6e3e2d05-da05-4ec3-a98e-588e60c19ae9.png)
+
