@@ -17,8 +17,8 @@ Kelas : TI.22.A.1
 - Ubah text menjadi huruf kecil
 - Ganti karakter H dengan karakter J
 
-####
 1. Hitung jumlah karakternya
+
 Fungsi len() digunakan untuk mengidentifikasi dan mengetahui seberapa panjang jumlah item atau anggota pada suatu objek.
 
         data1='Hello Word'
