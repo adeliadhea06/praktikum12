@@ -106,3 +106,23 @@ Kelas : TI.22.A.1
 - Berikut hasil run
 
 ![image](https://user-images.githubusercontent.com/115794875/209495185-9d884851-990c-448a-a78d-486374cc0791.png)
+
+### Latihan
+- Lengkapi kode berikut:
+    umur = 24
+    txt = 'Hello, nama saya john, dan umur saya adalah
+    ... tahun'
+
+    print(txt.format(umur))
+    
+        umur='24'
+        txt='Hallo, nama saya john, dan umur saya adalah, umur, 'tahun'
+        
+        print(txt.format(umur))
+        
+- Berikut hasil run
+
+![image](https://user-images.githubusercontent.com/115794875/209496068-799cb1a0-94f3-411d-9918-7513c8d41454.png)
+
+## Sekian, Terima Kasih.
+
