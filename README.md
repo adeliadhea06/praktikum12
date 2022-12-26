@@ -17,6 +17,8 @@ Kelas : TI.22.A.1
 - Ubah text menjadi huruf kecil
 - Ganti karakter H dengan karakter J
 
+### Penjelasan
+
 1. Hitung jumlah karakternya
 
 Fungsi len() digunakan untuk mengidentifikasi dan mengetahui seberapa panjang jumlah item atau anggota pada suatu objek.
@@ -26,4 +28,8 @@ Fungsi len() digunakan untuk mengidentifikasi dan mengetahui seberapa panjang ju
         print ("Jumlah karakter :",len(data1))
        
 ![image](https://user-images.githubusercontent.com/115794875/209493365-6e3e2d05-da05-4ec3-a98e-588e60c19ae9.png)
+
+Berikut hasil run
+![image](https://user-images.githubusercontent.com/115794875/209493524-8b384329-b105-49d8-9144-9091c8fca559.png)
+
 
