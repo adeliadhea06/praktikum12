@@ -116,6 +116,8 @@ Kelas : TI.22.A.1
 
         print(txt.format(umur))
  
+ - Kode:
+ 
         umur='24'
         txt='Hallo, nama saya john, dan umur saya adalah', umur, 'tahun'
         
