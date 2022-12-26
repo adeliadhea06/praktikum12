@@ -8,7 +8,7 @@ Kelas : TI.22.A.1
 
 ## Python String
 ### Latihan
-txt = 'Hello Word'
+    txt = 'Hello Word'
 - Hitung jumlah karakternya
 - Ambil karakter terakhir
 - Ambil karakter index ke-2 sampai index ke-5 (llo)
